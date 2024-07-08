@@ -8,6 +8,7 @@ The Image Viewer and Editor application provides users with a seamless, lightwei
 
 ____________________________________________________________________________________________
 
+
 ## Hardware Requirements:
 
 - At least 8GB of DDR4 RAM
